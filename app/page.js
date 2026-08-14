@@ -57,7 +57,7 @@ export default function Page() {
         <div className="masthead-meta">
           Internal Screening Tool
           <br />
-          Ministry of Energy
+          Email Checker
         </div>
       </header>
 
